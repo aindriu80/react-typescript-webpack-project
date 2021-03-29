@@ -4,6 +4,7 @@ import IMAGE2 from "./skyscraper.webp";
 import React from "react";
 import { ClickCounter } from "./ClickCounter";
 export const App = () => {
+  const name = "Aindriú";
   return (
     <>
       <h1>
